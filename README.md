@@ -3,6 +3,8 @@
 # 使い方
 
 ```bash
+npm install
+
 export TOKEN=<your-qiita-token>
 
 node create_qiita_url_json.js
