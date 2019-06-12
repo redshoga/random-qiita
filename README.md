@@ -12,4 +12,5 @@ node get_random_qiita_url.js
 # トークンの取得
 
 以下のページの個人用アクセストークンから「新しいトークンを発行する」をクリック
+
 https://qiita.com/settings/applications
