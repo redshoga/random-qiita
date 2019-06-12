@@ -4,7 +4,7 @@ const fs = require('fs');
 const TOKEN = process.env.TOKEN;
 
 const OUTFILE_NAME = "./url.json";
-const MAX_PAGE = 1;
+const MAX_PAGE = 100;
 const WAIT_SEC = 5000;
 const PER_PAGE = 100;
 
